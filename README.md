@@ -38,7 +38,7 @@ A Python-based desktop application for analyzing land characteristics, pollution
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/land-analysis-tool.git
+   git clone https://github.com/mutassimalzeem/land-analysis-tool.git
    cd land-analysis-tool
    ```
 
@@ -144,6 +144,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@yourtwitter](https://twitter.com/mutassimalzeem)
 
-Project Link: [https://github.com/yourusername/land-analysis-tool](https://github.com/yourusername/land-analysis-tool)
+Project Link: [https://github.com/mutassimalzeem/land-analysis-tool](https://github.com/mutassimalzeem/land-analysis-tool)
