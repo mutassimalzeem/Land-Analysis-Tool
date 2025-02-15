@@ -110,9 +110,7 @@ land-analysis-tool/
 ├── main.py                   # Main application file
 ├── requirements.txt          # Dependencies
 ├── README.md                # Documentation
-│
-└── Day 84/                  # Project directory
-    └── land_data.db         # SQLite database
+├── land_data.db         # SQLite database
 ```
 
 ## 🤝 Contributing
@@ -144,6 +142,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/mutassimalzeem)
-
+Twitter Name - [@mutassimalzeem](https://twitter.com/mutassimalzeem)
+E-mail: mutassimalshahriar@gmail.com
 Project Link: [https://github.com/mutassimalzeem/land-analysis-tool](https://github.com/mutassimalzeem/land-analysis-tool)
