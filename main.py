@@ -24,7 +24,7 @@ class LandAnalysisTool:
     
     def init_database(self):
         # Create database if it doesn't exist
-        self.conn = sqlite3.connect('Day 84/land_data.db')
+        self.conn = sqlite3.connect('land_data.db')
         self.cursor = self.conn.cursor()
         
         # Create table if it doesn't exist
