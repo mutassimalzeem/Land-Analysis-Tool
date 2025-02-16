@@ -1,3 +1,10 @@
+![image](https://github.com/user-attachments/assets/01a02e48-f0a9-4462-a45b-9b4a0be8a2bd)
+
+
+![image](https://github.com/user-attachments/assets/279bd76a-3a89-4731-b604-faf71e0b4b04)
+
+
+
 # Land Analysis Tool 🌍
 
 A Python-based desktop application for analyzing land characteristics, pollution levels, and soil types across different regions. This tool helps environmental agencies, real estate developers, and land management professionals make informed decisions about land use.
